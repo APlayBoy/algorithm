@@ -1,0 +1,3 @@
+from .logistic_regression import LogisticRegression
+from .linear_regression import LinearRegression
+from .softmax_regression import SoftMaxRegression
