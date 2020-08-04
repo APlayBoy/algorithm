@@ -25,7 +25,7 @@
 │   │   ├── linear_regression.py
 │   │   ├── logistic_regression.py
 │   │   ├── softmax_regression.py
-│   ├── cluster
+│   ├── tree
 │   │   ├── cart.py
 │   │   ├── decision_tree.py
 ```
@@ -89,5 +89,4 @@
 │   │   ├── tools.py
 │   │   ├── yolo_v2.py
 │   │   ├── yolo_v3.py
-
 ```
